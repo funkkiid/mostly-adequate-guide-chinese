@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [第 1 章: 我们在做什么？](ch1.md)
   * [介绍](ch1.md#介绍)
   * [一个简单例子](ch1.md#一个简单例子)
