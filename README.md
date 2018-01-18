@@ -1,3 +1,5 @@
+> 本开源书 forked from [JS 函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)，作者为 [llh911001](https://github.com/llh911001)，欢迎大家 star 原作者的 [repo](https://github.com/llh911001/mostly-adequate-guide-chinese)，以便获得最新更新，谢谢！
+
 > This is the Simplified Chinese translation of *[mostly-adequate-guide](https://github.com/DrBoolean/mostly-adequate-guide)*, thank Professor [Franklin Risby](https://github.com/DrBoolean) for his great work!
 
 
